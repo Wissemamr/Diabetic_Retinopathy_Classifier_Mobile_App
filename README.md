@@ -9,7 +9,7 @@
 
 
 ## Tech Stack:
-Deep Learning Framework: PyTorch
-Pretrained Model: MobileNet (Transfer Learning)
-Dataset: Kaggle Diabetic Retinopathy Classification Dataset
-Mobile App Development: Kotlin (Android)
+- Deep Learning Framework: PyTorch
+- Pretrained Model: MobileNet (Transfer Learning)
+- Dataset: Kaggle Diabetic Retinopathy Classification Dataset
+- Mobile App Development: Kotlin (Android)

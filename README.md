@@ -1,2 +1,0 @@
-# Diabetic_Retinopathy_Classifier_Mobile_App
-Automatic classification of DR mobile application

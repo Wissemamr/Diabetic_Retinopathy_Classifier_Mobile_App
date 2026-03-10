@@ -1,0 +1,6 @@
+path,true_label,pred_label,pred_confidence
+C:\Users\PC CABA DZ\.cache\kagglehub\datasets\pkdarabi\diagnosis-of-diabetic-retinopathy\versions\2\retino\test\DR\513b0a4651fa_png.rf.7eca236b8673dbf5f85efadc0887c26c.jpg,DR,No_DR,0.9996687173843384
+C:\Users\PC CABA DZ\.cache\kagglehub\datasets\pkdarabi\diagnosis-of-diabetic-retinopathy\versions\2\retino\test\DR\a443c4fd489c_png.rf.05837dd6c0653d027484e1b79086c9a4.jpg,DR,No_DR,0.9999303817749023
+C:\Users\PC CABA DZ\.cache\kagglehub\datasets\pkdarabi\diagnosis-of-diabetic-retinopathy\versions\2\retino\test\DR\d5b4705ac2ee_png.rf.8d2f70d09d373d9f329dbffdcc9e5c40.jpg,DR,No_DR,0.9999998807907104
+C:\Users\PC CABA DZ\.cache\kagglehub\datasets\pkdarabi\diagnosis-of-diabetic-retinopathy\versions\2\retino\test\No_DR\7ad0c4975890_png.rf.be6cbc9236535e912e8ae94da5456440.jpg,No_DR,DR,0.9902931451797485
+C:\Users\PC CABA DZ\.cache\kagglehub\datasets\pkdarabi\diagnosis-of-diabetic-retinopathy\versions\2\retino\test\No_DR\ae5d31979f19_png.rf.3e1accfc85329e3347ba1d5d966bec6d.jpg,No_DR,DR,0.9996786117553711
